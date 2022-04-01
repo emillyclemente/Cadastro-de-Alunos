@@ -1,0 +1,1 @@
+Aluno, Nome= Emilly, CPF= 2311, Curso= TI, Endereço= Vasco da Gama, 73, Vila São Pedro, SBC, SP, 3232

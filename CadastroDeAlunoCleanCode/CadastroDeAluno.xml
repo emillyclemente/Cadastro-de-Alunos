@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Alunos>
+    <Aluno id="1">
+        <Nome>Emilly</Nome>
+        <CPF>2311</CPF>
+        <Curso>TI</Curso>
+        <Endereco>
+            <Rua>Vasco da Gama</Rua>
+            <Numero>73</Numero>
+            <Bairro>Vila São Pedro</Bairro>
+            <Cidade>SBC</Cidade>
+            <Estado>SP</Estado>
+            <CEP>3232</CEP>
+        </Endereco>
+    </Aluno>
+</Alunos>
